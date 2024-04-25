@@ -1,4 +1,4 @@
-<h1 align="center">Portifólio - Lucyan 💻</h1>
+<h1 align="center">Portifólio - Caio Amorim 💻</h1>
 
 ![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
@@ -13,7 +13,7 @@ Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
 ## 🤯 O site é composto por:
 
 - **Home:** Minha apresentação;
-- **Sobre mim:** Falo um pouco sobre minha trajetória e meu estado atual;
+- **Sobre mim:** Falo um pouco sobre meus conhecimentos;
 - **Projetos:** Alguns projetos recentes que fiz;
 - **Conhecimentos:** As tecnologias que tenho conhecimento;
 - **Fale comigo:** Área com meios para contato comigo;
@@ -42,11 +42,9 @@ Neste projeto apliquei os seguintes pontos:
 
 <table>
   <tr>
+    
     <td>
-      <img src="https://github.com/lucyanovidio.png" width="100px" />
-    </td>
-    <td>
-      Feito por <a href="https://github.com/lucyanovidio">Lucyan Ovídio.</a> 🙋🏿‍♂️
+      Feito por <a href="https://github.com/caio1020ee">Caio Amorim.</a> 🙋🏿‍♂️
     </td>
   </tr>
 </table>
