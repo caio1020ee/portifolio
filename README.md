@@ -41,12 +41,7 @@ Neste projeto apliquei os seguintes pontos:
 ---
 
 <table>
-  <tr>
-    
-    <td>
-      Feito por <a href="https://github.com/caio1020ee">Caio Amorim.</a> 🙋🏿‍♂️
-    </td>
-  </tr>
+  
 </table>
 
 ## 🏆 Licença
