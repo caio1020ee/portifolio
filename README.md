@@ -1,6 +1,5 @@
 <h1 align="center">Portifólio - Caio Amorim 💻</h1>
 
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
 
 <h4 align="center"><a href="https://lucyanovidio.vercel.app">Confira o projeto aqui</a></h4>
 
